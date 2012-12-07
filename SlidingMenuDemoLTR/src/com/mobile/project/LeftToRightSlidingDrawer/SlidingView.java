@@ -154,8 +154,6 @@ public class SlidingView extends Activity {
 				mLogout.setBackgroundResource(R.drawable.gradient_bg);
             }
             menuOut = !menuOut;
-            
-            
         }
     }
 
