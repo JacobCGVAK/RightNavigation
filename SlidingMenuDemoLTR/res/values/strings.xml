@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SlidingView!</string>
+    <string name="app_name">LeftToRightSlidingDrawer</string>
+    <color name="litegrey">#2e2e2e</color>
+    <color name="dividerblack">#1f1f1f</color>
+    <color name="white">#ffffff</color>
+</resources>
